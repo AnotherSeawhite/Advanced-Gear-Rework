@@ -136,19 +136,6 @@
         "move_cost": 250
       }
     ],
-    "qualities": [["WELD", 4] ],
-    "gun_data" : {
-      "ammo_effects": ["LASER"],
-      "skill": "pistol",
-      "ranged_damage": 10,
-      "range": 5,
-      "dispersion": 1,
-      "sight_dispersion": 4,
-      "aim_speed" : 0,
-      "recoil": 0,
-      "durability": 10,
-      "burst": 3,
-      "reload": 500
-    }
+    "qualities": [["WELD", 4] ]
   }
 ]

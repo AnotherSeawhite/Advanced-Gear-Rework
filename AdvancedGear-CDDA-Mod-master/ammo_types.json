@@ -20,8 +20,7 @@
 	{
     "type" : "ammunition_type",
     "id" : "nanite_ammo",
-    "name" : "nanotech ammo",
-    "default" : "nanite_dart"
+    "name" : "nanotech ammo"
 	},
 	{
     "type" : "ammunition_type",

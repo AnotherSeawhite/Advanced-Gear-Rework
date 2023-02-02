@@ -43,7 +43,7 @@
     "reliability": 10,
     "reload_time": 0,
     "flags": [ "MAG_COMPACT", "NO_UNLOAD", "NO_RELOAD", "TRADER_AVOID" ],
-	"pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "nanite_dart": 1000 } } ],
+	"pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "nanite_ammo": 1000 } } ],
     "use_action": [
       {
         "type": "transform",
